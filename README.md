@@ -7,8 +7,8 @@ I'm a passionate software developer with a strong focus on building scalable, us
 ## 🔧 Technologies & Tools
 
 - **Programming Languages**: C/C++, Python, Java, Dart
-- **Frameworks**: Flutter, Supabase,
-- **Tools**: Git, Docker, VS Code
+- **Frameworks**: Flutter, Supabase,Firebase
+- **Tools**: Git, VS Code
 - **Design Patterns**: Clean Architecture, MVVM, OOP, SOLID Principles
 
 ---
