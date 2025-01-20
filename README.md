@@ -64,7 +64,7 @@ A **user-friendly application** for reading books for free, designed to provide 
 
 - [GitHub](https://github.com/mustafa-ahmed-009)
 - [LinkedIn](https://www.linkedin.com/in/mustafa-ahmed-0084262a3/)
-- Email: your-email@example.com
+- Email: mustafa.ahmed.00878@gmail.com
 
 ---
 
