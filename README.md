@@ -1,6 +1,6 @@
 # Hi there, I'm Mustafa Ahmed Abdelfattah 👋
 
-I'm a passionate software developer with a strong focus on building scalable, user-friendly applications. I specialize in **Flutter development**, **clean architecture**, and **embedded systems**. Welcome to my GitHub profile!
+I'm a passionate software developer with a strong focus on building scalable, user-friendly applications. I specialize in **Flutter development**, and **embedded systems**. Welcome to my GitHub profile!
 
 ---
 
