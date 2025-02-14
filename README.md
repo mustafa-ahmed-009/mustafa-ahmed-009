@@ -20,13 +20,13 @@ A **complete store management application** built with **Flutter** to streamline
 
 #### Key Features:
 - **Authentication**: Supports different user roles and permissions.
-- **Dashboard**: Manage invoices (customer and wholesale), sales returns, entry permits, and low-stock alerts.
+- **Dashboard**: Manage bills (customer and wholesale), sales returns, entry permits, and low-stock alerts.
 - **CRUD Operations**: Full support for warehouses, categories, and products.
-- **Invoice Management**: Prevents overstocking, disallows zero-quantity items, and allows custom discounts.
+- **Bill Management**: Prevents overstocking, disallows zero-quantity items, and allows custom discounts.
 - **Responsive Design**: Fully responsive across devices.
 - **Search Functionality**: Easily find products by name.
-- **Trader Invoices**: Supports trader pricing and partial payments for premium customers.
-- **Customer Management**: Tracks premium customers and their invoice balances.
+- **Trader Bills**: Supports trader pricing and partial payments for premium customers.
+- **Customer Management**: Tracks premium customers and their bill balances.
 - **Daily Expense Tracking**: Keeps track of daily expenses.
 - **User Permissions**: Restricts actions based on user roles.
 
