@@ -1,19 +1,42 @@
 # Hi there, I'm Mustafa Ahmed Abdelfattah 👋
 
-I'm a passionate software developer with a strong focus on building scalable, user-friendly applications. I specialize in **Flutter development**, and **embedded systems**. Welcome to my GitHub profile!
+I'm a passionate software developer with a strong focus on building scalable, user-friendly applications. I specialize in **Flutter development** and **embedded systems**. Welcome to my GitHub profile!
 
 ---
 
 ## 🔧 Technologies & Tools
 
 - **Programming Languages**: C/C++, Python, Java, Dart
-- **Frameworks**: Flutter, Supabase,Firebase
+- **Frameworks**: Flutter, Supabase, Firebase
 - **Tools**: Git, VS Code
 - **Design Patterns**: Clean Architecture, MVVM, OOP, SOLID Principles
 
 ---
 
 ## 🚀 Featured Projects
+
+### [StorePro – Full Store Management App Using Flutter](https://github.com/mustafa-ahmed-009/StorePro)
+A **complete store management application** built with **Flutter** to streamline business operations. This project follows the **MVVM architecture** and uses **SQLite** for the backend with **BLoC** for state management.
+
+#### Key Features:
+- **Authentication**: Supports different user roles and permissions.
+- **Dashboard**: Manage invoices (customer and wholesale), sales returns, entry permits, and low-stock alerts.
+- **CRUD Operations**: Full support for warehouses, categories, and products.
+- **Invoice Management**: Prevents overstocking, disallows zero-quantity items, and allows custom discounts.
+- **Responsive Design**: Fully responsive across devices.
+- **Search Functionality**: Easily find products by name.
+- **Trader Invoices**: Supports trader pricing and partial payments for premium customers.
+- **Customer Management**: Tracks premium customers and their invoice balances.
+- **Daily Expense Tracking**: Keeps track of daily expenses.
+- **User Permissions**: Restricts actions based on user roles.
+
+#### Tech Stack:
+- **Frontend**: Flutter
+- **Backend**: SQLite (`sqflite` package)
+- **State Management**: BLoC
+- **Architecture**: MVVM
+
+---
 
 ### [Omran Tex Shop Manager](https://github.com/mustafa-ahmed-009/omran_tex_shop_manager)
 A **comprehensive mobile application** designed to streamline inventory and billing management for small to medium-sized businesses.
