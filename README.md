@@ -38,7 +38,7 @@ A **complete store management application** built with **Flutter** to streamline
 
 ---
 
-### [Omran Tex Shop Manager](https://github.com/mustafa-ahmed-009/omran_tex_shop_manager)
+### [Online Shop Management Application](https://github.com/mustafa-ahmed-009/omran_tex_shop_manager)
 A **comprehensive mobile application** designed to streamline inventory and billing management for small to medium-sized businesses.
 
 #### Key Features:
