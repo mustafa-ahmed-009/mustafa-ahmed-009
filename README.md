@@ -49,7 +49,7 @@ WhatsApp-like messaging platform featuring:
 
 ---
 
-### [URL Shortener Platform](https://github.com/mustafa-ahmed-009/url-shortener)
+### [URL Shortener Platform](https://github.com/mustafa-ahmed-009/url-shortner)
 **Live Demo**: [https://chatty-m2mp.vercel.app/](https://chatty-m2mp.vercel.app/)
 
 URL shortening service with:
