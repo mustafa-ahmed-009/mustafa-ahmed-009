@@ -8,7 +8,7 @@ I'm a passionate Full-Stack Developer with expertise in both web and mobile appl
 
 ### Web Development
 - **Frontend**: React, TypeScript, Tailwind CSS, Redux, Zustand
-- **Backend**: Node.js, Express, MongoDB, Socket.IO
+- **Backend**: Node.js, Express, MongoDB
 - **Tools**: Vite, Git, VS Code
 
 ### Mobile Development
