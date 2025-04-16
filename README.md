@@ -1,77 +1,93 @@
 # Hi there, I'm Mustafa Ahmed Abdelfattah 👋
 
-I'm a passionate software developer with a strong focus on building scalable, user-friendly applications. I specialize in **Flutter development** and **embedded systems**. Welcome to my GitHub profile!
+I'm a passionate Full-Stack Developer with expertise in both web and mobile applications. Welcome to my GitHub profile!
 
 ---
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages**: C/C++, Python, Java, Dart
-- **Frameworks**: Flutter, Supabase, Firebase
-- **Tools**: Git, VS Code
-- **Design Patterns**: Clean Architecture, MVVM, OOP, SOLID Principles
+### Web Development
+- **Frontend**: React, TypeScript, Tailwind CSS, Redux, Zustand
+- **Backend**: Node.js, Express, MongoDB, Socket.IO
+- **Tools**: Vite, Git, VS Code
+
+### Mobile Development
+- **Flutter**: Dart, BLoC, Provider
+- **Databases**: SQLite, Supabase, Firebase
+- **Design Patterns**: Clean Architecture, MVVM, SOLID Principles
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Full-Stack Projects
 
-### [StorePro – Full Store Management App Using Flutter](https://github.com/mustafa-ahmed-009/StorePro)
-A **complete store management application** built with **Flutter** to streamline business operations. This project follows the **MVVM architecture** and uses **SQLite** for the backend with **BLoC** for state management.
+### [E-Commerce Platform (MERN Stack)](https://github.com/mustafa-ahmed-009/mern_ecommerce)
+**Live Demo**: [https://mern-frontend-inky.vercel.app/](https://mern-frontend-inky.vercel.app/)
+
+A complete online shopping platform with admin dashboard built with:
+- React 19 + TypeScript + Redux Toolkit
+- Node.js + Express + MongoDB
+- JWT authentication + Cloudinary integration
 
 #### Key Features:
-- **Authentication**: Supports different user roles and permissions.
-- **Dashboard**: Manage bills (customer and wholesale), sales returns, entry permits, and low-stock alerts.
-- **CRUD Operations**: Full support for warehouses, categories, and products.
-- **Bill Management**: Prevents overstocking, disallows zero-quantity items, and allows custom discounts.
-- **Responsive Design**: Fully responsive across devices.
-- **Search Functionality**: Easily find products by name.
-- **Trader Bills**: Supports trader pricing and partial payments for premium customers.
-- **Customer Management**: Tracks premium customers and their bill balances.
-- **Daily Expense Tracking**: Keeps track of daily expenses.
-- **User Permissions**: Restricts actions based on user roles.
-
-#### Tech Stack:
-- **Frontend**: Flutter
-- **Backend**: SQLite (`sqflite` package)
-- **State Management**: BLoC
-- **Architecture**: MVVM
+- Admin dashboard for product/category management
+- Shopping cart with persistent storage
+- Order tracking system
+- Email verification
+- Responsive Tailwind CSS UI
 
 ---
 
-### [Online Shop Management Application](https://github.com/mustafa-ahmed-009/omran_tex_shop_manager)
-A **comprehensive mobile application** designed to streamline inventory and billing management for small to medium-sized businesses.
+### [Real-Time Chat Application](https://github.com/mustafa-ahmed-009/chatty)
+**Live Demo**: [https://chatty-umber-psi.vercel.app](https://chatty-umber-psi.vercel.app)
 
-#### Key Features:
-- **Product Management**: Add, update, delete, and search products with ease.
-- **Barcode Scanning**: Automatically fetch product details by scanning barcodes.
-- **Billing Management**: Generate bills, track monthly billing data, and view recent bills.
-- **User-Friendly Interface**: Intuitive design with quick access to key features.
-
-#### Tech Stack:
-- **Frontend**: Flutter
-- **Backend**: Supabase
-- **State Management**: Flutter Bloc
-- **Barcode Scanning**: `flutter_barcode_scanner`
-- **Routing**: Go Router
+WhatsApp-like messaging platform featuring:
+- Socket.IO real-time communication
+- Online status indicators
+- Theme switching (light/dark)
+- Cloudinary avatar uploads
+- Zustand state management
 
 ---
+
+### [URL Shortener Platform](https://github.com/mustafa-ahmed-009/url-shortener)
+**Live Demo**: [https://chatty-m2mp.vercel.app/](https://chatty-m2mp.vercel.app/)
+
+URL shortening service with:
+- Guest-to-user URL synchronization
+- NanoID generation (8-character codes)
+- Click analytics dashboard
+- React Hook Form + Zod validation
+- Rate limiting (100 requests/hour)
+
+#### Tech Stack:
+- **Frontend**: React 19, TypeScript, Tailwind CSS
+- **Backend**: Express 5, MongoDB
+- **State Management**: Zustand
+- **Security**: Helmet, JWT
+
+---
+
+## 📱 Flutter Projects
+
+### [StorePro – Full Store Management](https://github.com/mustafa-ahmed-009/StorePro)
+Complete store management app with:
+- Role-based authentication
+- Inventory management (CRUD)
+- Bill generation with discounts
+- SQLite database + BLoC pattern
+
+### [Online Shop Manager](https://github.com/mustafa-ahmed-009/omran_tex_shop_manager)
+Inventory system featuring:
+- Barcode scanning
+- Supabase backend
+- Monthly billing reports
 
 ### [BookFinity](https://github.com/mustafa-ahmed-009/BookFinity)
-A **user-friendly application** for reading books for free, designed to provide a seamless reading experience.
-
-#### Key Features:
-- **Topic Previews**: Preview selected topics before diving into the content.
-- **Clean Architecture**: Follows clean architecture principles for maintainability and scalability.
-- **Responsive Design**: Consistent UI across all devices.
-- **Image Caching**: Improved performance with cached images.
-- **Efficient Pagination**: Automatically loads new data when the user scrolls through 70% of the list.
-- **Search Functionality**: Effortless book search and preview.
-
-#### Tech Stack:
-- **Frontend**: Flutter
-- **State Management**: Provider
-- **Image Caching**: `cached_network_image`
-- **Pagination**: Custom implementation or `pagination_view`
+Reading app with:
+- Topic previews
+- Cached images
+- Clean Architecture
+- Pagination
 
 ---
 
@@ -88,12 +104,6 @@ A **user-friendly application** for reading books for free, designed to provide 
 - [GitHub](https://github.com/mustafa-ahmed-009)
 - [LinkedIn](https://www.linkedin.com/in/mustafa-ahmed-0084262a3/)
 - Email: mustafa.ahmed.00878@gmail.com
-
----
-
-## 🎉 Fun Fact
-
-When I'm not coding, I enjoy tinkering with electronics and solving puzzles. I believe in continuous learning and always strive to improve my skills.
 
 ---
 
